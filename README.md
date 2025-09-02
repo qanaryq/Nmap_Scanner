@@ -20,5 +20,5 @@ You can export the analysis as **text** or **PDF**, and previously performed sca
 ```bash
 python main.py
 
-![Project Screenshot](https://i.imgur.com/abcd1234.png)
+
 
